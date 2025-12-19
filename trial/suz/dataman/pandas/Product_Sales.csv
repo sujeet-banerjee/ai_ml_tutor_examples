@@ -1,0 +1,581 @@
+Id,Product Category,Product,City,Sales,Date,Units Sold
+1,Books,Self-Help Guide,Phoenix,$54.74,6/3/2023,4
+2,Home Goods,Blender X100,Los Angeles,"$1,059.04",2/24/2024,7
+3,Books,Self-Help Guide,Houston,$163.66,2/3/2024,11
+4,Groceries,Protein Bar 12-Pack,San Diego,$19.16,10/23/2023,2
+5,Home Goods,Desk Lamp,Los Angeles,$590.24,10/26/2024,4
+6,Electronics,Headphones,San Diego,"$6,956.88",5/7/2023,15
+7,Books,Self-Help Guide,New York,$144.07,10/27/2023,9
+8,Apparel,T-shirt Basic,New York,$95.19,4/10/2024,2
+9,Home Goods,Blender X100,Houston,"$1,930.89",7/20/2023,14
+10,Apparel,Jeans Slim,New York,$96.21,1/29/2023,2
+11,Home Goods,Coffee Maker V3,Philadelphia,$301.36,7/5/2023,2
+12,Electronics,Smartwatch Z,Los Angeles,"$2,542.31",7/18/2024,5
+13,Groceries,Organic Coffee,Phoenix,$62.53,4/29/2024,6
+14,Electronics,Laptop Pro,Houston,"$9,191.18",4/8/2023,20
+15,Groceries,Organic Coffee,Philadelphia,$42.93,2/1/2023,4
+16,Apparel,Sneakers V2,Phoenix,$106.62,4/1/2024,2
+17,Apparel,Jeans Slim,Chicago,$93.30,8/2/2024,2
+18,Groceries,Organic Coffee,Philadelphia,$49.99,6/11/2024,5
+19,Groceries,Organic Coffee,Phoenix,$73.85,9/5/2024,7
+20,Electronics,Smartwatch Z,San Diego,"$1,021.95",10/1/2023,2
+21,Apparel,Jacket Bomber,Chicago,$164.87,1/23/2024,3
+22,Electronics,Headphones,Houston,"$2,074.15",7/20/2024,4
+23,Books,Self-Help Guide,New York,$123.52,2/26/2024,8
+24,Books,Cooking Book,San Antonio,$44.00,9/28/2023,3
+25,Electronics,Smartwatch Z,San Diego,"$2,475.25",5/27/2024,5
+26,Electronics,Smartwatch Z,Philadelphia,"$1,482.85",12/22/2024,3
+27,Electronics,Smartphone X,Phoenix,"$1,991.16",2/19/2023,4
+28,Apparel,Sneakers V2,Phoenix,$138.02,5/8/2023,3
+29,Apparel,Jacket Bomber,New York,$423.94,11/30/2023,8
+30,Electronics,Smartphone X,San Antonio,"$1,811.86",1/28/2024,4
+31,Electronics,Smartphone X,Chicago,"$2,169.41",11/14/2023,4
+32,Electronics,Smartwatch Z,Los Angeles,"$2,875.64",11/19/2024,6
+33,Books,Fiction Best Seller,San Antonio,$31.30,1/26/2023,2
+34,Groceries,Protein Bar 12-Pack,San Antonio,$32.75,10/7/2023,3
+35,Groceries,Cereal Max,Chicago,$177.80,8/14/2023,18
+36,Groceries,Organic Coffee,Philadelphia,$100.65,10/5/2023,10
+37,Groceries,Protein Bar 12-Pack,San Diego,$39.87,10/29/2023,4
+38,Electronics,Headphones,San Antonio,"$4,066.20",8/19/2024,8
+39,Groceries,Organic Coffee,Chicago,$36.84,9/7/2024,4
+40,Groceries,Cereal Max,Los Angeles,$57.29,4/24/2023,6
+41,Groceries,Cereal Max,Philadelphia,$236.89,4/24/2023,24
+42,Books,Fiction Best Seller,Houston,$32.41,12/20/2023,2
+43,Home Goods,Blender X100,San Antonio,$729.82,8/13/2024,5
+44,Books,Cooking Book,Chicago,$42.42,7/17/2024,3
+45,Apparel,Jacket Bomber,Houston,$731.78,3/4/2023,16
+46,Apparel,T-shirt Basic,Phoenix,$219.70,1/8/2024,4
+47,Groceries,Cereal Max,Chicago,$18.17,5/23/2024,2
+48,Home Goods,Desk Lamp,Philadelphia,"$1,541.55",12/5/2024,10
+49,Apparel,T-shirt Basic,New York,$286.64,1/14/2023,6
+50,Books,Self-Help Guide,San Diego,$268.87,5/28/2023,18
+51,Home Goods,Coffee Maker V3,Los Angeles,$456.90,12/22/2023,3
+52,Apparel,Sneakers V2,San Diego,$90.10,1/9/2024,2
+53,Groceries,Cereal Max,Los Angeles,$19.29,7/7/2024,2
+54,Books,Self-Help Guide,Houston,$31.64,11/19/2024,2
+55,Apparel,Sneakers V2,New York,$104.47,10/18/2023,2
+56,Groceries,Cereal Max,New York,$21.64,5/22/2024,2
+57,Apparel,T-shirt Basic,San Antonio,$522.74,4/9/2023,10
+58,Groceries,Organic Coffee,San Diego,$20.93,8/2/2023,2
+59,Home Goods,Smart Vacuum,Phoenix,$281.56,12/17/2024,2
+60,Electronics,Smartphone X,Los Angeles,"$2,741.83",1/31/2023,5
+61,Home Goods,Coffee Maker V3,Chicago,$301.73,11/7/2023,2
+62,Groceries,Protein Bar 12-Pack,Chicago,$63.36,2/4/2023,6
+63,Electronics,Smartwatch Z,Chicago,"$1,059.93",9/2/2023,2
+64,Apparel,Jeans Slim,Los Angeles,$466.23,5/14/2023,9
+65,Home Goods,Smart Vacuum,Chicago,$556.20,5/7/2023,4
+66,Apparel,Jeans Slim,Phoenix,$247.77,4/17/2023,5
+67,Groceries,Cereal Max,Phoenix,$18.96,4/7/2024,2
+68,Electronics,Smartphone X,New York,$954.05,8/20/2023,2
+69,Books,Fiction Best Seller,San Diego,$47.85,11/21/2024,3
+70,Apparel,Jacket Bomber,Philadelphia,$92.15,4/29/2024,2
+71,Books,Fiction Best Seller,Chicago,$57.85,6/5/2024,4
+72,Apparel,Jacket Bomber,Philadelphia,$365.91,5/12/2024,8
+73,Apparel,Sneakers V2,San Antonio,$140.83,10/2/2023,3
+74,Apparel,Sneakers V2,Los Angeles,$318.66,6/10/2024,6
+75,Groceries,Cereal Max,San Diego,$37.15,4/24/2024,4
+76,Electronics,Headphones,Los Angeles,"$8,099.49",10/6/2023,16
+77,Books,Self-Help Guide,Los Angeles,$58.49,2/6/2024,4
+78,Books,Fiction Best Seller,Los Angeles,$29.45,5/11/2023,2
+79,Electronics,Headphones,San Diego,"$3,093.37",4/28/2024,6
+80,Electronics,Smartphone X,Philadelphia,"$1,082.65",9/3/2023,2
+81,Electronics,Smartphone X,Phoenix,"$1,456.07",1/25/2024,3
+82,Home Goods,Smart Vacuum,Los Angeles,$954.12,1/5/2023,7
+83,Books,Self-Help Guide,Los Angeles,$124.24,6/26/2023,8
+84,Apparel,Jacket Bomber,Los Angeles,$107.06,10/6/2023,2
+85,Groceries,Organic Coffee,Chicago,$41.47,9/13/2024,4
+86,Home Goods,Coffee Maker V3,Los Angeles,$467.28,2/8/2024,3
+87,Apparel,Jeans Slim,Chicago,$581.40,2/14/2023,11
+88,Books,Fiction Best Seller,New York,$328.39,6/20/2023,23
+89,Groceries,Cereal Max,Phoenix,$37.67,12/13/2023,4
+90,Groceries,Organic Coffee,San Diego,$75.70,1/11/2024,7
+91,Home Goods,Blender X100,Los Angeles,$611.50,5/4/2024,4
+92,Books,Self-Help Guide,San Diego,$93.88,11/19/2024,6
+93,Electronics,Smartphone X,Philadelphia,"$3,579.66",12/19/2024,7
+94,Apparel,Sneakers V2,New York,$290.40,6/21/2023,6
+95,Home Goods,Desk Lamp,Los Angeles,$544.72,9/29/2024,4
+96,Books,Cooking Book,Los Angeles,$28.95,12/20/2023,2
+97,Electronics,Headphones,San Antonio,"$4,216.60",12/10/2024,8
+98,Books,Cooking Book,Chicago,$57.84,7/29/2024,4
+99,Groceries,Cereal Max,San Diego,$74.32,3/11/2023,8
+100,Electronics,Smartphone X,San Diego,"$6,582.91",11/4/2023,14
+101,Apparel,Jacket Bomber,San Antonio,"$1,071.87",10/29/2024,20
+102,Books,Self-Help Guide,Phoenix,$185.49,12/1/2024,12
+103,Books,Cooking Book,Chicago,$180.11,12/7/2023,12
+104,Home Goods,Desk Lamp,Phoenix,$597.32,7/30/2023,4
+105,Books,Cooking Book,Los Angeles,$30.94,5/11/2023,2
+106,Electronics,Smartphone X,Philadelphia,"$2,675.59",8/23/2024,5
+107,Groceries,Cereal Max,Phoenix,$69.97,9/6/2023,7
+108,Home Goods,Coffee Maker V3,Chicago,$780.30,12/6/2023,5
+109,Electronics,Laptop Pro,New York,"$3,177.77",10/9/2023,7
+110,Apparel,Sneakers V2,Houston,$94.35,9/30/2023,2
+111,Apparel,Jeans Slim,New York,$198.11,1/15/2023,4
+112,Home Goods,Desk Lamp,Houston,$542.88,11/7/2024,4
+113,Electronics,Smartphone X,New York,"$2,764.35",5/21/2023,6
+114,Electronics,Headphones,Los Angeles,"$4,745.85",2/11/2024,9
+115,Apparel,T-shirt Basic,Phoenix,$522.56,3/26/2024,10
+116,Apparel,T-shirt Basic,New York,$325.16,10/28/2024,7
+117,Groceries,Protein Bar 12-Pack,New York,$28.30,7/27/2023,3
+118,Apparel,T-shirt Basic,San Antonio,$252.22,9/30/2023,5
+119,Apparel,Jeans Slim,San Diego,$101.34,8/9/2024,2
+120,Home Goods,Desk Lamp,Chicago,$442.86,7/20/2023,3
+121,Home Goods,Desk Lamp,Los Angeles,"$1,704.90",10/7/2024,12
+122,Apparel,Jeans Slim,Los Angeles,$191.89,1/25/2024,4
+123,Electronics,Laptop Pro,Phoenix,"$1,020.20",9/14/2023,2
+124,Apparel,Jacket Bomber,New York,$282.58,2/19/2023,6
+125,Electronics,Headphones,Houston,"$2,749.51",2/11/2023,5
+126,Books,Fiction Best Seller,Chicago,$69.25,1/7/2024,5
+127,Groceries,Cereal Max,New York,$28.96,4/17/2024,3
+128,Books,Cooking Book,New York,$92.10,8/24/2024,6
+129,Groceries,Organic Coffee,Philadelphia,$31.16,5/31/2023,3
+130,Groceries,Cereal Max,Chicago,$101.47,7/27/2023,11
+131,Apparel,Jacket Bomber,Phoenix,$267.26,8/9/2023,5
+132,Groceries,Organic Coffee,San Diego,$29.32,6/4/2023,3
+133,Apparel,Jeans Slim,San Antonio,$213.36,5/10/2024,4
+134,Apparel,Jacket Bomber,Houston,"$1,080.52",1/26/2023,21
+135,Books,Cooking Book,Phoenix,$27.01,9/2/2023,2
+136,Apparel,Sneakers V2,Chicago,$695.70,4/16/2024,13
+137,Books,Self-Help Guide,San Diego,$61.06,8/21/2024,4
+138,Books,Self-Help Guide,Phoenix,$61.36,9/6/2023,4
+139,Apparel,Jacket Bomber,New York,$482.45,10/26/2024,10
+140,Books,Fiction Best Seller,Los Angeles,$43.72,7/11/2023,3
+141,Books,Fiction Best Seller,Chicago,$331.37,3/29/2024,21
+142,Groceries,Organic Coffee,San Diego,$31.44,1/21/2024,3
+143,Electronics,Smartwatch Z,San Diego,"$1,038.86",7/18/2023,2
+144,Apparel,T-shirt Basic,Chicago,$736.39,7/18/2023,14
+145,Apparel,Sneakers V2,Houston,$489.55,4/23/2024,9
+146,Books,Self-Help Guide,San Antonio,$114.86,4/5/2024,8
+147,Books,Fiction Best Seller,Los Angeles,$74.73,1/30/2023,5
+148,Apparel,T-shirt Basic,New York,$107.36,6/19/2023,2
+149,Groceries,Organic Coffee,Houston,$18.02,12/20/2023,2
+150,Apparel,Jeans Slim,Chicago,$321.92,5/1/2023,6
+151,Home Goods,Desk Lamp,Philadelphia,$406.87,8/30/2024,3
+152,Books,Cooking Book,Los Angeles,$149.35,11/4/2023,11
+153,Books,Cooking Book,San Diego,$251.59,1/10/2023,18
+154,Books,Fiction Best Seller,New York,$234.44,12/11/2023,15
+155,Electronics,Laptop Pro,San Antonio,"$1,010.30",2/13/2024,2
+156,Apparel,Jacket Bomber,San Antonio,$211.27,10/16/2023,4
+157,Groceries,Protein Bar 12-Pack,Chicago,$29.56,9/1/2023,3
+158,Groceries,Cereal Max,Chicago,$42.47,6/21/2023,4
+159,Books,Self-Help Guide,San Diego,$129.36,12/24/2023,9
+160,Electronics,Smartwatch Z,Chicago,"$1,069.52",10/6/2023,2
+161,Electronics,Smartphone X,Philadelphia,"$1,501.49",9/11/2023,3
+162,Electronics,Smartphone X,Philadelphia,$969.59,7/29/2023,2
+163,Home Goods,Coffee Maker V3,Philadelphia,$763.25,6/15/2023,5
+164,Books,Cooking Book,San Diego,$93.14,1/26/2023,6
+165,Electronics,Laptop Pro,Chicago,"$4,310.09",7/19/2023,9
+166,Books,Self-Help Guide,Philadelphia,$58.83,3/17/2024,4
+167,Home Goods,Desk Lamp,Philadelphia,$283.48,5/18/2023,2
+168,Groceries,Protein Bar 12-Pack,San Antonio,$54.28,12/9/2024,6
+169,Apparel,T-shirt Basic,New York,$106.03,11/3/2024,2
+170,Groceries,Protein Bar 12-Pack,Phoenix,$58.49,11/17/2023,6
+171,Home Goods,Desk Lamp,Philadelphia,$577.79,12/9/2023,4
+172,Electronics,Laptop Pro,San Diego,$992.62,3/12/2023,2
+173,Home Goods,Smart Vacuum,San Antonio,$588.67,4/14/2024,4
+174,Apparel,Jacket Bomber,Philadelphia,$212.17,11/3/2024,4
+175,Groceries,Protein Bar 12-Pack,New York,$18.29,7/11/2023,2
+176,Electronics,Laptop Pro,Los Angeles,$972.94,5/14/2024,2
+177,Groceries,Organic Coffee,Philadelphia,$71.06,9/28/2023,7
+178,Home Goods,Coffee Maker V3,Phoenix,$323.65,6/10/2023,2
+179,Electronics,Smartwatch Z,Los Angeles,$972.16,7/9/2023,2
+180,Home Goods,Coffee Maker V3,Chicago,$942.46,12/19/2024,6
+181,Electronics,Laptop Pro,Houston,"$1,511.06",8/27/2023,3
+182,Books,Self-Help Guide,Houston,$30.48,1/17/2024,2
+183,Electronics,Headphones,Phoenix,"$4,316.77",2/9/2023,9
+184,Home Goods,Desk Lamp,San Antonio,$486.85,6/9/2024,3
+185,Groceries,Organic Coffee,San Antonio,$19.42,7/24/2024,2
+186,Home Goods,Desk Lamp,Chicago,"$1,387.92",4/18/2023,10
+187,Home Goods,Coffee Maker V3,Phoenix,"$1,501.44",5/30/2023,11
+188,Apparel,Sneakers V2,Philadelphia,$464.57,7/22/2023,9
+189,Groceries,Cereal Max,San Diego,$39.86,8/4/2024,4
+190,Groceries,Cereal Max,Los Angeles,$78.08,1/10/2023,8
+191,Electronics,Headphones,Chicago,"$2,698.61",12/7/2024,5
+192,Home Goods,Smart Vacuum,Los Angeles,"$2,224.27",5/12/2024,14
+193,Books,Cooking Book,San Diego,$79.80,7/20/2023,5
+194,Books,Fiction Best Seller,San Antonio,$30.26,2/17/2024,2
+195,Home Goods,Coffee Maker V3,San Antonio,$641.04,2/19/2024,4
+196,Groceries,Organic Coffee,Chicago,$29.71,4/19/2023,3
+197,Electronics,Smartphone X,San Antonio,"$1,061.92",9/1/2023,2
+198,Electronics,Headphones,San Diego,"$1,465.42",8/12/2024,3
+199,Books,Self-Help Guide,Phoenix,$79.37,7/11/2023,5
+200,Books,Cooking Book,Philadelphia,$28.21,7/11/2024,2
+201,Groceries,Cereal Max,San Antonio,$38.19,3/31/2023,4
+202,Home Goods,Desk Lamp,Philadelphia,$677.18,3/25/2024,5
+203,Books,Self-Help Guide,Philadelphia,$118.96,5/23/2024,8
+204,Groceries,Cereal Max,Los Angeles,$68.99,9/29/2024,7
+205,Home Goods,Blender X100,Phoenix,"$1,153.20",1/28/2024,8
+206,Home Goods,Desk Lamp,New York,$298.93,8/24/2023,2
+207,Apparel,T-shirt Basic,Philadelphia,$108.45,2/26/2024,2
+208,Home Goods,Smart Vacuum,San Diego,$321.15,6/13/2023,2
+209,Books,Fiction Best Seller,San Antonio,$48.06,7/25/2023,3
+210,Home Goods,Blender X100,San Diego,$983.91,3/26/2024,6
+211,Groceries,Protein Bar 12-Pack,Philadelphia,$27.34,5/24/2024,3
+212,Home Goods,Blender X100,Chicago,$813.56,7/9/2024,6
+213,Apparel,Sneakers V2,Houston,$681.83,7/17/2024,14
+214,Home Goods,Desk Lamp,Chicago,$270.02,12/7/2023,2
+215,Electronics,Laptop Pro,San Antonio,"$2,470.70",8/12/2023,5
+216,Books,Fiction Best Seller,Philadelphia,$31.57,11/27/2023,2
+217,Home Goods,Smart Vacuum,San Diego,$452.92,1/19/2024,3
+218,Apparel,Jacket Bomber,San Antonio,$150.68,4/17/2023,3
+219,Home Goods,Desk Lamp,New York,$407.65,4/28/2023,3
+220,Apparel,Sneakers V2,Chicago,$140.58,3/6/2024,3
+221,Groceries,Organic Coffee,Chicago,$21.58,12/16/2024,2
+222,Home Goods,Coffee Maker V3,Houston,"$1,495.67",3/3/2023,11
+223,Electronics,Smartwatch Z,Philadelphia,"$5,824.21",12/20/2024,11
+224,Apparel,Jacket Bomber,Chicago,$96.25,8/30/2023,2
+225,Apparel,Sneakers V2,New York,$201.77,1/24/2024,4
+226,Home Goods,Smart Vacuum,Chicago,"$1,319.86",10/20/2024,8
+227,Groceries,Protein Bar 12-Pack,Houston,$116.29,6/10/2023,12
+228,Electronics,Smartphone X,San Diego,"$3,829.31",2/14/2024,7
+229,Groceries,Organic Coffee,San Diego,$20.96,11/1/2024,2
+230,Groceries,Protein Bar 12-Pack,Philadelphia,$57.72,9/1/2023,6
+231,Home Goods,Blender X100,San Diego,"$1,269.25",6/16/2024,9
+232,Electronics,Laptop Pro,Phoenix,"$3,258.28",12/30/2023,7
+233,Electronics,Headphones,San Antonio,"$1,921.55",5/16/2024,4
+234,Home Goods,Blender X100,Los Angeles,$310.96,12/29/2024,2
+235,Groceries,Cereal Max,San Antonio,$18.75,2/9/2024,2
+236,Groceries,Protein Bar 12-Pack,Chicago,$55.84,10/28/2023,6
+237,Groceries,Organic Coffee,San Diego,$50.80,6/15/2024,5
+238,Apparel,Jacket Bomber,Los Angeles,$143.06,5/3/2023,3
+239,Groceries,Cereal Max,San Diego,$68.89,12/26/2023,7
+240,Groceries,Cereal Max,Chicago,$56.92,9/12/2023,6
+241,Groceries,Cereal Max,New York,$19.83,10/10/2023,2
+242,Books,Cooking Book,Phoenix,$78.09,11/8/2024,5
+243,Books,Fiction Best Seller,Philadelphia,$125.07,8/29/2024,9
+244,Books,Self-Help Guide,Philadelphia,$31.31,2/1/2024,2
+245,Apparel,Jeans Slim,Phoenix,$95.59,12/12/2024,2
+246,Groceries,Cereal Max,New York,$30.17,3/4/2023,3
+247,Apparel,Jeans Slim,Chicago,$324.65,10/24/2024,6
+248,Books,Cooking Book,Houston,$111.94,3/24/2023,7
+249,Electronics,Smartwatch Z,Chicago,"$2,344.79",1/27/2024,5
+250,Books,Cooking Book,New York,$85.69,5/27/2023,6
+251,Books,Self-Help Guide,Los Angeles,$128.48,10/24/2024,9
+252,Groceries,Organic Coffee,Los Angeles,$81.27,11/12/2024,9
+253,Electronics,Smartwatch Z,Philadelphia,"$2,285.02",11/21/2024,5
+254,Home Goods,Desk Lamp,Los Angeles,$573.28,8/22/2023,4
+255,Books,Cooking Book,San Antonio,$248.05,10/23/2023,16
+256,Home Goods,Coffee Maker V3,Phoenix,$944.86,6/16/2023,6
+257,Electronics,Smartphone X,Los Angeles,"$1,064.12",2/11/2023,2
+258,Electronics,Smartphone X,Chicago,"$3,601.54",5/11/2024,8
+259,Groceries,Cereal Max,San Diego,$32.83,5/27/2024,3
+260,Apparel,Sneakers V2,Phoenix,$94.23,8/28/2024,2
+261,Groceries,Protein Bar 12-Pack,Philadelphia,$47.91,6/28/2024,5
+262,Home Goods,Desk Lamp,Phoenix,$602.75,2/7/2023,4
+263,Home Goods,Coffee Maker V3,San Antonio,"$1,633.62",6/26/2024,10
+264,Home Goods,Smart Vacuum,New York,$812.19,9/17/2024,5
+265,Books,Self-Help Guide,Philadelphia,$61.35,10/24/2024,4
+266,Home Goods,Smart Vacuum,New York,$779.78,10/27/2023,5
+267,Home Goods,Smart Vacuum,Los Angeles,"$1,057.41",2/5/2023,7
+268,Groceries,Cereal Max,Los Angeles,$238.57,8/21/2023,23
+269,Books,Self-Help Guide,Los Angeles,$121.39,9/1/2024,8
+270,Books,Self-Help Guide,New York,$79.02,11/25/2023,5
+271,Groceries,Cereal Max,San Diego,$55.82,2/18/2024,6
+272,Apparel,Jacket Bomber,New York,$135.12,4/16/2024,3
+273,Electronics,Smartphone X,Houston,"$5,802.34",1/17/2023,11
+274,Electronics,Laptop Pro,San Antonio,"$3,146.87",2/6/2024,6
+275,Apparel,Jeans Slim,San Antonio,$812.57,12/3/2023,16
+276,Apparel,Jeans Slim,Los Angeles,$152.41,2/4/2024,3
+277,Books,Fiction Best Seller,San Antonio,$47.07,8/9/2023,3
+278,Electronics,Laptop Pro,Philadelphia,"$4,317.64",6/11/2023,9
+279,Electronics,Smartwatch Z,Los Angeles,"$2,738.20",9/21/2024,6
+280,Apparel,T-shirt Basic,New York,$91.30,9/30/2024,2
+281,Electronics,Headphones,San Diego,"$5,321.73",8/14/2024,11
+282,Apparel,Jeans Slim,Los Angeles,$105.00,8/27/2023,2
+283,Books,Cooking Book,Los Angeles,$80.22,2/10/2023,5
+284,Electronics,Headphones,San Antonio,"$2,499.69",11/25/2024,5
+285,Electronics,Headphones,San Diego,"$1,084.93",12/7/2023,2
+286,Electronics,Headphones,Phoenix,"$5,450.14",2/3/2023,12
+287,Electronics,Smartphone X,Houston,"$6,397.42",9/3/2024,12
+288,Groceries,Cereal Max,Philadelphia,$42.44,5/13/2024,4
+289,Groceries,Protein Bar 12-Pack,San Antonio,$96.93,11/19/2023,10
+290,Electronics,Headphones,Houston,"$1,433.31",4/7/2023,3
+291,Electronics,Laptop Pro,New York,"$1,067.74",3/4/2024,2
+292,Electronics,Headphones,Phoenix,"$2,082.55",5/19/2024,4
+293,Home Goods,Blender X100,Los Angeles,$484.23,4/26/2024,3
+294,Electronics,Smartwatch Z,Los Angeles,$905.43,9/30/2023,2
+295,Home Goods,Coffee Maker V3,San Diego,$293.28,6/18/2023,2
+296,Groceries,Protein Bar 12-Pack,New York,$79.04,2/17/2024,8
+297,Home Goods,Desk Lamp,Phoenix,"$1,692.22",8/2/2023,12
+298,Apparel,Jeans Slim,San Antonio,$94.99,5/8/2024,2
+299,Books,Cooking Book,New York,$58.44,8/16/2023,4
+300,Apparel,Jacket Bomber,Phoenix,$256.89,11/3/2023,5
+301,Electronics,Smartwatch Z,Phoenix,"$2,047.91",11/12/2023,4
+302,Home Goods,Coffee Maker V3,San Antonio,"$1,555.74",12/13/2023,10
+303,Books,Fiction Best Seller,San Diego,$43.92,4/12/2023,3
+304,Groceries,Cereal Max,Phoenix,$229.80,2/25/2024,22
+305,Books,Fiction Best Seller,Phoenix,$264.30,2/3/2024,19
+306,Groceries,Organic Coffee,San Antonio,$27.66,11/26/2023,3
+307,Home Goods,Desk Lamp,New York,"$2,743.29",5/11/2024,18
+308,Books,Fiction Best Seller,Chicago,$87.55,7/11/2023,6
+309,Electronics,Smartphone X,New York,"$1,912.71",6/5/2023,4
+310,Home Goods,Blender X100,Houston,$763.27,4/8/2024,5
+311,Electronics,Laptop Pro,New York,"$2,127.16",6/9/2023,4
+312,Home Goods,Smart Vacuum,San Antonio,$494.84,1/4/2023,3
+313,Electronics,Headphones,San Antonio,"$6,092.91",7/17/2023,12
+314,Electronics,Laptop Pro,Houston,"$1,376.62",12/27/2024,3
+315,Apparel,Sneakers V2,San Antonio,$514.01,7/10/2024,11
+316,Apparel,Sneakers V2,New York,$265.85,2/16/2024,5
+317,Groceries,Protein Bar 12-Pack,San Antonio,$111.80,3/10/2023,12
+318,Home Goods,Desk Lamp,Phoenix,$707.42,1/8/2023,5
+319,Electronics,Smartphone X,San Diego,"$2,176.55",10/19/2023,4
+320,Electronics,Headphones,New York,"$3,502.82",4/22/2024,7
+321,Home Goods,Coffee Maker V3,San Antonio,$570.14,6/16/2023,4
+322,Home Goods,Coffee Maker V3,Philadelphia,"$1,655.88",5/10/2023,11
+323,Home Goods,Blender X100,San Antonio,$608.52,4/20/2024,4
+324,Home Goods,Blender X100,Phoenix,"$2,631.02",7/22/2024,18
+325,Apparel,Jacket Bomber,Philadelphia,"$1,666.72",10/3/2024,31
+326,Home Goods,Blender X100,Houston,$479.28,10/10/2024,3
+327,Home Goods,Coffee Maker V3,San Antonio,"$2,176.76",1/30/2023,14
+328,Apparel,T-shirt Basic,Chicago,$200.40,8/12/2024,4
+329,Home Goods,Desk Lamp,Philadelphia,$675.47,2/13/2023,5
+330,Apparel,Sneakers V2,Los Angeles,$659.64,7/11/2024,13
+331,Books,Cooking Book,Philadelphia,$277.21,1/21/2023,19
+332,Electronics,Headphones,San Antonio,"$2,587.05",9/15/2024,5
+333,Home Goods,Blender X100,San Diego,"$2,181.59",12/27/2024,16
+334,Electronics,Headphones,Los Angeles,"$2,619.03",4/26/2024,5
+335,Groceries,Cereal Max,New York,$40.72,6/16/2024,4
+336,Home Goods,Smart Vacuum,Los Angeles,$970.08,12/17/2024,6
+337,Groceries,Cereal Max,San Antonio,$97.34,12/25/2024,10
+338,Books,Fiction Best Seller,San Diego,$228.57,3/4/2024,15
+339,Apparel,Sneakers V2,San Antonio,$159.14,2/6/2024,3
+340,Groceries,Organic Coffee,San Diego,$20.35,1/31/2023,2
+341,Electronics,Smartphone X,Chicago,"$3,662.89",11/14/2023,8
+342,Apparel,Jeans Slim,San Antonio,$192.17,5/31/2023,4
+343,Books,Self-Help Guide,Chicago,$181.16,11/2/2023,12
+344,Groceries,Organic Coffee,San Diego,$63.97,11/5/2023,6
+345,Home Goods,Desk Lamp,Phoenix,"$1,498.65",10/10/2023,10
+346,Electronics,Smartphone X,Los Angeles,"$2,427.79",1/19/2023,5
+347,Home Goods,Blender X100,San Diego,$817.31,1/10/2023,5
+348,Home Goods,Coffee Maker V3,Los Angeles,$655.53,9/19/2024,4
+349,Apparel,Jacket Bomber,San Antonio,$214.71,5/15/2024,4
+350,Groceries,Cereal Max,Phoenix,$96.27,2/22/2024,10
+351,Home Goods,Coffee Maker V3,San Antonio,"$1,549.71",11/10/2024,11
+352,Apparel,Jeans Slim,Houston,$154.07,1/12/2024,3
+353,Electronics,Headphones,Phoenix,"$3,166.35",11/8/2023,6
+354,Books,Cooking Book,San Antonio,$111.52,11/2/2023,7
+355,Apparel,Jeans Slim,San Diego,$318.30,10/6/2024,7
+356,Electronics,Smartphone X,Chicago,"$2,572.20",4/29/2023,5
+357,Electronics,Laptop Pro,San Diego,"$4,081.55",11/26/2024,9
+358,Apparel,Jacket Bomber,Houston,$719.55,12/2/2024,14
+359,Apparel,T-shirt Basic,New York,$448.97,12/19/2023,9
+360,Groceries,Cereal Max,Philadelphia,$127.25,7/3/2024,13
+361,Apparel,Sneakers V2,New York,$189.57,4/25/2023,4
+362,Groceries,Organic Coffee,San Diego,$105.50,1/4/2024,10
+363,Groceries,Protein Bar 12-Pack,San Diego,$20.84,5/8/2023,2
+364,Groceries,Organic Coffee,Chicago,$19.34,10/25/2024,2
+365,Apparel,Jacket Bomber,San Antonio,$183.01,11/11/2023,4
+366,Apparel,Jacket Bomber,Philadelphia,$149.51,10/19/2024,3
+367,Home Goods,Desk Lamp,Chicago,"$1,271.38",9/27/2023,9
+368,Electronics,Smartwatch Z,San Antonio,$966.37,5/20/2023,2
+369,Groceries,Protein Bar 12-Pack,Los Angeles,$45.94,11/5/2023,5
+370,Electronics,Smartphone X,San Antonio,"$1,640.85",4/8/2023,3
+371,Home Goods,Desk Lamp,San Antonio,$959.48,12/10/2024,7
+372,Books,Self-Help Guide,Philadelphia,$48.05,9/7/2024,3
+373,Home Goods,Coffee Maker V3,Phoenix,$440.74,4/2/2024,3
+374,Groceries,Organic Coffee,New York,$91.50,1/25/2024,10
+375,Groceries,Organic Coffee,San Diego,$29.93,9/24/2024,3
+376,Electronics,Laptop Pro,Phoenix,"$1,391.53",1/21/2023,3
+377,Books,Cooking Book,San Diego,$64.13,4/18/2023,4
+378,Groceries,Protein Bar 12-Pack,New York,$90.13,7/29/2024,9
+379,Home Goods,Coffee Maker V3,Phoenix,"$2,797.08",3/19/2023,19
+380,Home Goods,Blender X100,Philadelphia,$972.05,6/3/2023,6
+381,Home Goods,Desk Lamp,Houston,$719.17,11/15/2023,5
+382,Electronics,Smartwatch Z,San Antonio,"$3,529.52",3/14/2023,7
+383,Groceries,Organic Coffee,Philadelphia,$19.01,9/17/2024,2
+384,Books,Self-Help Guide,New York,$44.97,1/18/2024,3
+385,Books,Self-Help Guide,Philadelphia,$70.57,4/27/2024,5
+386,Groceries,Cereal Max,Philadelphia,$29.41,12/15/2023,3
+387,Groceries,Protein Bar 12-Pack,Los Angeles,$43.01,2/21/2023,4
+388,Home Goods,Smart Vacuum,Philadelphia,$328.52,9/25/2024,2
+389,Apparel,Jeans Slim,San Diego,$581.97,4/24/2024,12
+390,Apparel,Jeans Slim,San Antonio,$965.33,3/12/2024,20
+391,Apparel,Sneakers V2,Los Angeles,$149.47,3/19/2023,3
+392,Groceries,Organic Coffee,Phoenix,$39.74,7/2/2024,4
+393,Electronics,Headphones,Houston,"$3,774.40",12/7/2023,7
+394,Electronics,Headphones,Chicago,"$2,113.28",5/27/2024,4
+395,Electronics,Headphones,New York,"$1,880.34",9/8/2024,4
+396,Groceries,Protein Bar 12-Pack,Chicago,$19.19,2/9/2024,2
+397,Apparel,T-shirt Basic,San Diego,$419.03,2/8/2024,8
+398,Home Goods,Blender X100,Chicago,$304.76,2/4/2023,2
+399,Apparel,Jeans Slim,New York,$476.99,8/1/2023,10
+400,Home Goods,Blender X100,San Diego,$613.91,3/5/2024,4
+401,Electronics,Smartwatch Z,New York,"$2,593.59",3/16/2024,5
+402,Books,Cooking Book,Houston,$72.24,9/17/2023,5
+403,Home Goods,Smart Vacuum,San Antonio,"$1,061.73",3/1/2023,7
+404,Books,Cooking Book,Los Angeles,$122.95,9/26/2023,8
+405,Home Goods,Desk Lamp,Houston,$292.00,5/24/2023,2
+406,Apparel,Jeans Slim,Philadelphia,$250.77,2/18/2024,5
+407,Groceries,Protein Bar 12-Pack,Phoenix,$38.99,1/20/2023,4
+408,Electronics,Laptop Pro,New York,"$2,836.46",3/17/2024,6
+409,Home Goods,Smart Vacuum,Phoenix,$320.67,1/14/2024,2
+410,Groceries,Organic Coffee,San Antonio,$18.73,3/8/2024,2
+411,Home Goods,Smart Vacuum,Chicago,$762.62,11/9/2023,5
+412,Home Goods,Desk Lamp,Los Angeles,$152.09,1/27/2023,1
+413,Groceries,Cereal Max,San Antonio,$108.66,4/6/2023,11
+414,Books,Fiction Best Seller,New York,$29.17,11/20/2024,2
+415,Electronics,Smartwatch Z,Houston,"$2,217.46",2/4/2024,4
+416,Apparel,Jacket Bomber,Los Angeles,$365.25,7/25/2023,7
+417,Apparel,Sneakers V2,San Antonio,$200.72,5/4/2024,4
+418,Groceries,Cereal Max,New York,$18.47,4/20/2024,2
+419,Electronics,Smartphone X,Philadelphia,"$3,668.04",7/20/2024,7
+420,Books,Cooking Book,Los Angeles,$58.60,2/23/2024,4
+421,Apparel,Jeans Slim,Los Angeles,$483.50,8/5/2024,10
+422,Electronics,Laptop Pro,San Antonio,"$2,267.33",3/12/2023,5
+423,Apparel,Sneakers V2,Chicago,$107.51,1/8/2024,2
+424,Apparel,T-shirt Basic,San Antonio,$467.43,5/20/2023,9
+425,Groceries,Organic Coffee,New York,$51.81,4/2/2023,5
+426,Electronics,Laptop Pro,New York,"$1,529.82",8/20/2023,3
+427,Apparel,Jeans Slim,Phoenix,$144.13,11/13/2024,3
+428,Home Goods,Desk Lamp,New York,$684.22,10/24/2023,5
+429,Electronics,Smartwatch Z,Houston,"$1,971.84",2/3/2024,4
+430,Home Goods,Coffee Maker V3,Los Angeles,$770.29,11/20/2024,5
+431,Electronics,Smartwatch Z,Philadelphia,"$1,489.10",7/16/2023,3
+432,Apparel,Jeans Slim,Chicago,$100.91,12/18/2024,2
+433,Apparel,Jacket Bomber,San Antonio,$534.80,9/2/2023,10
+434,Groceries,Organic Coffee,Phoenix,$110.15,11/25/2023,12
+435,Electronics,Headphones,San Diego,"$1,917.39",8/28/2024,4
+436,Apparel,Jacket Bomber,Phoenix,$295.21,10/18/2023,6
+437,Electronics,Laptop Pro,New York,"$2,207.39",4/20/2023,4
+438,Home Goods,Desk Lamp,New York,$585.34,10/9/2024,4
+439,Electronics,Smartwatch Z,New York,"$1,023.77",6/25/2024,2
+440,Home Goods,Coffee Maker V3,Phoenix,$618.35,1/8/2023,4
+441,Books,Self-Help Guide,Houston,$138.82,12/14/2024,9
+442,Books,Fiction Best Seller,Philadelphia,$49.12,9/20/2023,3
+443,Apparel,T-shirt Basic,San Diego,$369.37,3/24/2023,7
+444,Electronics,Smartwatch Z,San Antonio,"$1,027.65",11/21/2023,2
+445,Electronics,Headphones,Los Angeles,"$3,476.99",7/19/2024,7
+446,Electronics,Laptop Pro,Houston,"$3,695.59",8/27/2024,7
+447,Home Goods,Desk Lamp,San Antonio,$457.10,7/16/2023,3
+448,Groceries,Protein Bar 12-Pack,New York,$28.84,3/12/2023,3
+449,Electronics,Smartwatch Z,Philadelphia,"$2,442.92",8/1/2024,5
+450,Electronics,Smartphone X,Chicago,"$2,781.99",7/18/2023,5
+451,Apparel,T-shirt Basic,New York,$159.20,4/18/2024,3
+452,Books,Fiction Best Seller,Houston,$31.42,6/23/2023,2
+453,Electronics,Smartphone X,San Diego,"$1,959.04",8/7/2023,4
+454,Books,Cooking Book,Houston,$163.78,2/12/2024,12
+455,Books,Fiction Best Seller,Phoenix,$140.75,3/7/2023,9
+456,Apparel,Jacket Bomber,Los Angeles,$274.34,9/21/2023,5
+457,Home Goods,Desk Lamp,Chicago,$747.05,3/23/2024,5
+458,Apparel,Jeans Slim,Philadelphia,$199.16,1/16/2023,4
+459,Groceries,Cereal Max,New York,$115.86,3/14/2024,12
+460,Apparel,Jacket Bomber,San Antonio,$318.57,7/6/2024,6
+461,Groceries,Protein Bar 12-Pack,San Diego,$19.16,12/13/2024,2
+462,Home Goods,Blender X100,Chicago,$304.76,3/20/2024,2
+463,Books,Cooking Book,Los Angeles,$91.56,6/13/2024,6
+464,Apparel,Jacket Bomber,New York,$346.06,12/7/2023,7
+465,Groceries,Organic Coffee,Chicago,$29.17,8/22/2024,3
+466,Home Goods,Coffee Maker V3,New York,$448.33,7/7/2024,3
+467,Electronics,Headphones,Houston,"$1,911.23",6/17/2024,4
+468,Groceries,Organic Coffee,Houston,$19.53,1/29/2024,2
+469,Home Goods,Desk Lamp,San Antonio,$293.73,4/17/2024,2
+470,Home Goods,Smart Vacuum,Phoenix,$818.15,8/15/2024,5
+471,Home Goods,Desk Lamp,Chicago,$752.12,9/20/2024,5
+472,Groceries,Organic Coffee,San Diego,$70.93,9/2/2023,7
+473,Groceries,Protein Bar 12-Pack,New York,$57.72,10/18/2023,6
+474,Books,Fiction Best Seller,Chicago,$79.25,1/24/2024,5
+475,Electronics,Headphones,San Antonio,"$3,472.01",6/10/2024,7
+476,Apparel,Jacket Bomber,Phoenix,$140.91,5/18/2023,3
+477,Apparel,Sneakers V2,San Antonio,$373.91,9/29/2023,8
+478,Apparel,Jacket Bomber,San Diego,$472.50,7/28/2023,9
+479,Electronics,Smartphone X,New York,"$2,060.03",1/24/2024,4
+480,Apparel,Sneakers V2,New York,$523.60,10/14/2024,11
+481,Groceries,Cereal Max,New York,$18.57,10/6/2023,2
+482,Electronics,Smartphone X,San Antonio,"$4,310.27",8/1/2024,9
+483,Apparel,T-shirt Basic,San Antonio,$98.58,4/20/2023,2
+484,Apparel,T-shirt Basic,Chicago,$158.33,8/18/2024,3
+485,Electronics,Smartwatch Z,New York,"$1,556.24",2/13/2024,3
+486,Books,Cooking Book,Houston,$29.13,8/20/2023,2
+487,Electronics,Smartwatch Z,Los Angeles,"$1,962.00",2/27/2024,4
+488,Books,Fiction Best Seller,Los Angeles,$46.60,6/3/2023,3
+489,Groceries,Cereal Max,San Antonio,$19.12,8/11/2023,2
+490,Electronics,Smartphone X,San Antonio,"$2,091.95",4/12/2024,4
+491,Home Goods,Blender X100,San Antonio,$775.24,6/2/2023,5
+492,Groceries,Cereal Max,Houston,$78.43,4/3/2024,8
+493,Books,Cooking Book,San Antonio,$141.67,5/27/2024,9
+494,Groceries,Protein Bar 12-Pack,New York,$29.62,4/18/2024,3
+495,Electronics,Smartwatch Z,San Diego,"$1,911.66",3/5/2023,4
+496,Apparel,Sneakers V2,New York,$155.19,2/25/2024,3
+497,Home Goods,Smart Vacuum,Phoenix,$957.94,7/29/2023,6
+498,Groceries,Protein Bar 12-Pack,Houston,$29.80,1/28/2024,3
+499,Groceries,Cereal Max,Chicago,$17.65,6/6/2024,2
+14501,Electronics,Headphones,San Antonio,"$2,093.59",4/29/2024,4
+14502,Home Goods,Desk Lamp,Phoenix,$292.00,9/2/2023,2
+14503,Apparel,T-shirt Basic,San Diego,$100.95,2/9/2024,2
+14504,Electronics,Smartwatch Z,San Diego,"$1,480.95",10/9/2023,3
+14505,Groceries,Cereal Max,New York,$21.57,11/20/2024,2
+14506,Home Goods,Coffee Maker V3,San Antonio,$752.65,3/24/2024,5
+14507,Books,Fiction Best Seller,Chicago,$149.27,7/16/2023,10
+14508,Electronics,Headphones,Houston,"$2,398.92",1/14/2024,5
+14509,Apparel,Jacket Bomber,Los Angeles,$512.92,4/8/2023,10
+14510,Electronics,Laptop Pro,New York,"$2,836.46",3/24/2024,6
+14511,Apparel,Sneakers V2,Houston,$242.02,9/17/2024,5
+14512,Electronics,Smartphone X,San Antonio,"$1,023.77",1/22/2023,2
+14513,Home Goods,Desk Lamp,San Antonio,$158.07,3/8/2023,1
+14514,Home Goods,Desk Lamp,Chicago,$439.14,9/24/2024,3
+14515,Electronics,Headphones,Chicago,"$1,993.58",5/19/2024,4
+14516,Groceries,Organic Coffee,Chicago,$70.97,9/28/2023,7
+14517,Apparel,Jeans Slim,San Antonio,$157.06,8/25/2023,3
+14518,Home Goods,Blender X100,San Diego,$475.92,5/9/2023,3
+14519,Groceries,Protein Bar 12-Pack,Los Angeles,$48.31,8/23/2023,5
+14520,Electronics,Smartwatch Z,Los Angeles,"$1,489.10",11/22/2023,3
+14521,Apparel,T-shirt Basic,San Diego,$106.03,3/5/2023,2
+14522,Apparel,Jacket Bomber,San Diego,$207.96,7/16/2024,4
+14523,Apparel,T-shirt Basic,San Diego,$210.85,11/19/2023,4
+14524,Electronics,Headphones,Houston,"$2,069.96",6/25/2024,4
+14525,Groceries,Cereal Max,San Antonio,$18.37,2/14/2024,2
+14526,Books,Cooking Book,Houston,$69.76,2/9/2024,5
+14527,Apparel,Jacket Bomber,San Diego,$94.01,8/1/2023,2
+14528,Apparel,T-shirt Basic,Philadelphia,$152.00,3/12/2024,3
+14529,Groceries,Organic Coffee,Phoenix,$105.74,7/6/2023,10
+14530,Apparel,Jacket Bomber,San Antonio,$376.57,3/19/2024,7
+14531,Books,Self-Help Guide,Houston,$181.16,9/8/2023,12
+14532,Apparel,T-shirt Basic,Houston,$365.25,3/13/2024,7
+14533,Home Goods,Smart Vacuum,San Diego,$990.23,3/1/2023,6
+14534,Apparel,Jeans Slim,Phoenix,$156.40,1/20/2024,3
+14535,Apparel,Jeans Slim,San Diego,$260.65,3/11/2023,5
+14536,Groceries,Protein Bar 12-Pack,San Diego,$29.56,8/15/2024,3
+14537,Electronics,Laptop Pro,Los Angeles,"$2,040.40",6/5/2023,4
+14538,Books,Cooking Book,Phoenix,$43.43,10/18/2023,3
+14539,Electronics,Smartwatch Z,Houston,"$1,501.49",4/18/2023,3
+14540,Groceries,Cereal Max,San Antonio,$20.24,8/10/2024,2
+14541,Apparel,Jacket Bomber,Los Angeles,$355.25,12/14/2023,7
+14542,Groceries,Protein Bar 12-Pack,Houston,$18.73,4/14/2023,2
+14543,Books,Fiction Best Seller,Chicago,$179.35,8/19/2024,12
+14544,Groceries,Cereal Max,Houston,$57.70,11/4/2023,6
+14545,Home Goods,Desk Lamp,New York,$542.88,4/21/2024,4
+14546,Home Goods,Smart Vacuum,New York,$729.82,7/6/2024,5
+14547,Electronics,Smartphone X,Chicago,"$2,726.04",4/19/2023,5
+14548,Home Goods,Desk Lamp,Houston,$844.02,8/1/2024,6
+14549,Groceries,Organic Coffee,Chicago,$28.87,11/26/2023,3
+14550,Electronics,Laptop Pro,New York,"$2,599.96",3/27/2024,5
+14551,Electronics,Smartphone X,San Diego,"$1,967.89",8/4/2023,4
+14552,Apparel,T-shirt Basic,San Diego,$105.74,4/20/2023,2
+14553,Home Goods,Coffee Maker V3,Philadelphia,$457.10,11/17/2024,3
+14554,Electronics,Headphones,New York,"$1,556.24",9/8/2023,3
+14555,Apparel,Jacket Bomber,Los Angeles,$142.34,5/18/2023,3
+14556,Books,Cooking Book,San Antonio,$77.52,7/28/2024,5
+14557,Electronics,Laptop Pro,Phoenix,"$2,217.46",8/1/2024,4
+14558,Apparel,Sneakers V2,San Antonio,$108.45,8/11/2023,2
+14559,Home Goods,Desk Lamp,Chicago,$763.25,5/12/2024,5
+14560,Home Goods,Smart Vacuum,Chicago,$779.78,1/29/2023,5
+14561,Apparel,T-shirt Basic,New York,$155.19,2/13/2024,3
+14562,Groceries,Organic Coffee,Houston,$18.37,7/21/2023,2
+14563,Books,Fiction Best Seller,San Antonio,$42.94,5/10/2024,3
+14564,Apparel,Jeans Slim,Houston,$517.91,1/8/2024,10
+14565,Home Goods,Coffee Maker V3,Phoenix,$456.90,8/12/2024,3
+14566,Groceries,Cereal Max,New York,$19.34,7/28/2024,2
+14567,Groceries,Protein Bar 12-Pack,Houston,$108.66,1/14/2023,11
+14568,Apparel,Sneakers V2,Chicago,$158.07,5/2/2023,3
+14569,Electronics,Smartphone X,New York,"$3,707.95",4/12/2023,7
+14570,Electronics,Smartwatch Z,Phoenix,"$2,542.31",11/20/2023,5
+14571,Home Goods,Coffee Maker V3,Los Angeles,$602.75,7/6/2023,4
+14572,Books,Fiction Best Seller,San Diego,$136.25,2/23/2024,9
+14573,Apparel,T-shirt Basic,Philadelphia,$213.36,4/26/2023,4
+14574,Home Goods,Blender X100,Chicago,"$1,061.73",8/13/2023,7
+14575,Books,Cooking Book,Houston,$74.55,4/20/2024,5
+14576,Electronics,Smartwatch Z,San Diego,"$1,967.89",12/16/2023,4
+14577,Groceries,Organic Coffee,Chicago,$70.08,1/28/2023,7
+14578,Electronics,Headphones,San Diego,"$2,954.21",9/6/2023,6
+14579,Apparel,Sneakers V2,Los Angeles,$365.91,3/29/2024,7
+14580,Home Goods,Coffee Maker V3,San Antonio,$425.07,11/3/2023,3
+14581,Books,Fiction Best Seller,New York,$166.44,11/11/2024,1
