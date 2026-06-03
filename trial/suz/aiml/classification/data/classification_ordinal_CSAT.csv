@@ -1,0 +1,21 @@
+Wait_Time_Min,Resolution_Status,Previous_Calls,Support_Tier,Satisfaction_Score
+3,Partially Fixed,2,Gold,Neutral
+17,Partially Fixed,3,Gold,Good
+5,Unresolved,3,Silver,Very Poor
+17,Unresolved,2,Silver,Good
+24,Unresolved,3,Gold,Neutral
+17,Unresolved,2,Gold,Very Poor
+27,Fixed,1,Silver,Good
+17,Unresolved,2,Bronze,Good
+2,Partially Fixed,2,Bronze,Neutral
+2,Fixed,3,Silver,Very Poor
+28,Partially Fixed,3,Bronze,Neutral
+22,Partially Fixed,0,Silver,Very Poor
+23,Partially Fixed,0,Bronze,Excellent
+5,Unresolved,1,Bronze,Poor
+1,Unresolved,0,Gold,Poor
+1,Fixed,2,Gold,Poor
+19,Fixed,3,Bronze,Neutral
+2,Unresolved,0,Bronze,Excellent
+21,Partially Fixed,0,Gold,Very Poor
+12,Fixed,1,Gold,Good

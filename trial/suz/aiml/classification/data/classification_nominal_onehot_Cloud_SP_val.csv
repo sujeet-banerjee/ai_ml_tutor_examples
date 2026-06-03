@@ -1,0 +1,11 @@
+Budget_USD,Primary_Language,Target_Region,Cloud_Choice
+35521,Python,US,AWS
+26653,C#,APAC,AWS
+7565,Java,EU,AWS
+35741,Java,APAC,AWS
+39032,Python,APAC,Azure
+18410,Java,EU,Azure
+38212,Python,EU,GCP
+16334,Java,EU,AWS
+19600,Java,APAC,GCP
+20067,Java,US,AWS
